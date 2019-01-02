@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="std_change_record_producer">
+    <std_change_record_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Standard Change">d76542e40f9223009568cfdce1050e2f</category>
+        <closed_change_count>0</closed_change_count>
+        <cost>0</cost>
+        <current_version display_value="Reboot Remote Server - 1">6a8376460f5223009568cfdce1050e9c</current_version>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Reboot Remote Server</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <percent_successful>0</percent_successful>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=5a8376460f5223009568cfdce1050e74&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <retired>false</retired>
+        <roles/>
+        <sc_catalogs>691cb9200f9223009568cfdce1050e58</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[current.std_change_producer_version= "6a8376460f5223009568cfdce1050e9c";
+current.type= "standard";
+GlideSysAttachment.copy("std_change_record_producer", "5a8376460f5223009568cfdce1050e74", current.getTableName(), current.getUniqueValue());
+]]></script>
+        <short_description>If Server is not responding, Or application Running on the Server are not responding or unmounted storage</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>std_change_record_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 09:09:41</sys_created_on>
+        <sys_id>5a8376460f5223009568cfdce1050e74</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reboot Remote Server</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>std_change_record_producer_5a8376460f5223009568cfdce1050e74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 09:09:41</sys_updated_on>
+        <table_name>change_request</table_name>
+        <template display_value="Reboot Remote Server">9a8376460f5223009568cfdce1050e72</template>
+        <type>item</type>
+        <unsuccessful_change_count>0</unsuccessful_change_count>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </std_change_record_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a8376460f5223009568cfdce1050e74"/>
+    <fx_price action="delete_multiple" query="id=5a8376460f5223009568cfdce1050e74"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>5a8376460f5223009568cfdce1050e74</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 09:09:41</sys_created_on>
+        <sys_id>528376460f5223009568cfdce1050e76</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 09:09:41</sys_updated_on>
+        <table>std_change_record_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>5a8376460f5223009568cfdce1050e74</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 09:09:41</sys_created_on>
+        <sys_id>5a8376460f5223009568cfdce1050e77</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 09:09:41</sys_updated_on>
+        <table>std_change_record_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

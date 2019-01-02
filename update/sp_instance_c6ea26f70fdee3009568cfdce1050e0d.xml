@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>@media (max-width: 767px) {
+  .wrapper-xl {
+    padding: 25px 15px !important;
+  }
+  .text-4x {
+    font-size: 3em;
+  }
+}</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0eea26f70fdee3009568cfdce1050e0b</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 19:01:20</sys_created_on>
+        <sys_id>c6ea26f70fdee3009568cfdce1050e0d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Logging</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sp_instance_c6ea26f70fdee3009568cfdce1050e0d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-18 07:08:25</sys_updated_on>
+        <title>Logging</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"wrapper-xl welcome\">\n<h1 style=\"color: #ff0000;\">${Dear Kunden Welcome</h1>\n<h1 style=\"color: #ff0000;\">to the Portal}</h1>\n<h3 style=\"color: #ff0000;\">${Log in, Be connected}</h3>\n</div>",
+		"displayValue": "<div class=\"wrapper-xl welcome\">\n<h1 style=\"color: #ff0000;\">${Dear Kunden Welcome</h1>\n<h1 style=\"color: #ff0000;\">to the Portal}</h1>\n<h3 style=\"color: #ff0000;\">${Log in, Be connected}</h3>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c6ea26f70fdee3009568cfdce1050e0d"/>
+</record_update>

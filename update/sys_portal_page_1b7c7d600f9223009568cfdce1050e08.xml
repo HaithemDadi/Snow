@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-01-02 10:16:15">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-07 13:18:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b7c7d600f9223009568cfdce1050e08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_j_d_bank_catlog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sys_portal_page_1b7c7d600f9223009568cfdce1050e08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-07 13:18:16</sys_updated_on>
+        <title>catalog_j_d_bank_catlog</title>
+        <user/>
+        <view>catalog_j_d_bank_catlog</view>
+    </sys_portal_page>
+</record_update>

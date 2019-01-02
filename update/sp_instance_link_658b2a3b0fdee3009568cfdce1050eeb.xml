@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>briefcase</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse the catalog for services and items you need</short_description>
+        <size>md</size>
+        <sp_column display_value="1">698b2a3b0fdee3009568cfdce1050ee9</sp_column>
+        <sp_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 19:04:02</sys_created_on>
+        <sys_id>658b2a3b0fdee3009568cfdce1050eeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Something from the Catalog</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sp_instance_link_658b2a3b0fdee3009568cfdce1050eeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 19:04:02</sys_updated_on>
+        <title>Request Something from the Catalog</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=658b2a3b0fdee3009568cfdce1050eeb"/>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>bank_index</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 12:01:18</sys_created_on>
+        <sys_id>e4da9f4e0f9223009568cfdce1050eee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bank_index</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sp_page_e4da9f4e0f9223009568cfdce1050eee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 12:03:41</sys_updated_on>
+        <title>Bank Index</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=e4da9f4e0f9223009568cfdce1050eee"/>
+</record_update>

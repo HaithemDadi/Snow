@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Reboot Remote Server">5a8376460f5223009568cfdce1050e74</sc_cat_item>
+        <sc_catalog display_value="J_D Bank Catlog">691cb9200f9223009568cfdce1050e58</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 09:09:41</sys_created_on>
+        <sys_id>a28376460f5223009568cfdce1050e7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>J_D Bank Catlog.Reboot Remote Server</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a28376460f5223009568cfdce1050e7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 09:09:41</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

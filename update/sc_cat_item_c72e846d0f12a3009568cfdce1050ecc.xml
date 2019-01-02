@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Business Application">5f724e240f9223009568cfdce1050e11</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>You want to install Office on your Laptop, Desktop...</p>]]></description>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Office</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>8a5c992d0fd2a3009568cfdce1050eeb</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=c72e846d0f12a3009568cfdce1050ecc&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>691cb9200f9223009568cfdce1050e58</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Install Office</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 07:50:56</sys_created_on>
+        <sys_id>c72e846d0f12a3009568cfdce1050ecc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Office</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_cat_item_c72e846d0f12a3009568cfdce1050ecc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 13:31:46</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c72e846d0f12a3009568cfdce1050ecc"/>
+    <fx_price action="delete_multiple" query="id=c72e846d0f12a3009568cfdce1050ecc"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="EUR">EUR</currency>
+        <field>price</field>
+        <id>c72e846d0f12a3009568cfdce1050ecc</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 07:50:56</sys_created_on>
+        <sys_id>155e086d0f12a3009568cfdce1050ea2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 07:50:56</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>c72e846d0f12a3009568cfdce1050ecc</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 07:50:56</sys_created_on>
+        <sys_id>5d5e086d0f12a3009568cfdce1050ea3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 07:50:56</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <image_height>177</image_height>
+        <image_width>284</image_width>
+        <size_bytes>1825</size_bytes>
+        <size_compressed>1736</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 13:31:46</sys_created_on>
+        <sys_id>8a5c992d0fd2a3009568cfdce1050eeb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 13:31:46</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>c72e846d0f12a3009568cfdce1050ecc</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="8a5c992d0fd2a3009568cfdce1050eeb">8a5c992d0fd2a3009568cfdce1050eeb</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 13:31:46</sys_created_on>
+        <sys_id>ca5c992d0fd2a3009568cfdce1050eeb</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2304</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="8a5c992d0fd2a3009568cfdce1050eeb">8a5c992d0fd2a3009568cfdce1050eeb</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 13:31:46</sys_created_on>
+        <sys_id>4e5c992d0fd2a3009568cfdce1050eeb</sys_id>
+    </sys_attachment_doc>
+</record_update>

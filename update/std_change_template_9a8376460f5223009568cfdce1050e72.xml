@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="std_change_template">
+    <std_change_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <link_element/>
+        <name>Reboot Remote Server</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>If Server is not responding, Or application Running on the Server are not responding or unmounted st</short_description>
+        <show_on_template_bar>false</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>std_change_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 09:09:41</sys_created_on>
+        <sys_id>9a8376460f5223009568cfdce1050e72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reboot Remote Server</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>std_change_template_9a8376460f5223009568cfdce1050e72</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 09:09:41</sys_updated_on>
+        <table>change_request</table>
+        <template>short_description=Include a title for your change no greater than 100 characters^description=Describe what you plan to do^implementation_plan=List the steps in order of completion that will be worked through when implementing this change.&#13;
+&#13;
+Note who will perform each step and whether there are dependencies&#13;
+			between steps.^backout_plan=Describe the steps you will take to revert the change to its pre-implementation state.&#13;
+&#13;
+At what point during the implementation will you take the decision to&#13;
+			backout your change?&#13;
+&#13;
+			Does your change window include time to backout if you need&#13;
+			to?^test_plan=Explain what testing you have done or will do prior to implementation that gives you confidence this change will be successful.&#13;
+&#13;
+Describe the tests that will be carried out after implementation to confirm&#13;
+			that the change has been successful.^assignment_group=a715cd759f2002002920bde8132e7018^justification=this is a test^risk_impact_analysis=The risk if to loss connection with server, need to connect via VSphere^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </std_change_template>
+</record_update>

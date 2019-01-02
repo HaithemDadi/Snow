@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="J_D Bank Catlog">691cb9200f9223009568cfdce1050e58</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-07 13:18:16</sys_created_on>
+        <sys_id>1b7c7d600f9223009568cfdce1050e09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>J_D Bank Catlog.catalog_j_d_bank_catlog</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_j_d_bank_catlog">1b7c7d600f9223009568cfdce1050e08</sys_portal_page>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_1b7c7d600f9223009568cfdce1050e09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-07 13:18:16</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>visible-xs</class_name>
+        <container_class_name/>
+        <name>Bank Index kunden - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="bank_index_kunden">6d8b2a3b0fdee3009568cfdce1050e21</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 19:04:02</sys_created_on>
+        <sys_id>a58b2a3b0fdee3009568cfdce1050ee6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Bank Index kunden - Container 1</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sp_container_a58b2a3b0fdee3009568cfdce1050ee6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 19:07:13</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

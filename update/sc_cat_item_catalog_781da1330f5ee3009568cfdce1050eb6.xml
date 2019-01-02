@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Exceptional withdrawal capacity">944e68a60f9e23009568cfdce1050e16</sc_cat_item>
+        <sc_catalog display_value="J_D Kunden">9d58a53f0f1ee3009568cfdce1050e50</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-17 14:31:12</sys_created_on>
+        <sys_id>781da1330f5ee3009568cfdce1050eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>J_D Kunden.Exceptional withdrawal capacity</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_781da1330f5ee3009568cfdce1050eb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 14:31:12</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

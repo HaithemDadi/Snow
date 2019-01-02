@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide">
+    <sp_carousel_slide action="INSERT_OR_UPDATE">
+        <background/>
+        <carousel/>
+        <name>sp3</name>
+        <order>150</order>
+        <sys_class_name>sp_carousel_slide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 12:15:46</sys_created_on>
+        <sys_id>d42e13020fd223009568cfdce1050e16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sp3</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sp_carousel_slide_d42e13020fd223009568cfdce1050e16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 12:15:46</sys_updated_on>
+        <url>?id=sc_cat_item&amp;sys_id=d130ad75d7620200a9ad1e173e24d43c</url>
+    </sp_carousel_slide>
+</record_update>

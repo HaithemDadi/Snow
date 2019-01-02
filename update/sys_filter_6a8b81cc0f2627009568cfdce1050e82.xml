@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sc_cat_item">type!=bundle^sys_class_name!=sc_cat_item_guide^type!=package^sys_class_name!=sc_cat_item_content^sys_scope=1130b9280f5223009568cfdce1050ed9^EQ<item endquery="false" field="type" goto="false" newquery="false" operator="!=" or="false" value="bundle"/>
+            <item endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="sc_cat_item_guide"/>
+            <item endquery="false" field="type" goto="false" newquery="false" operator="!=" or="false" value="package"/>
+            <item endquery="false" field="sys_class_name" goto="false" newquery="false" operator="!=" or="false" value="sc_cat_item_content"/>
+            <item display_table="sys_scope" display_value="J&amp;H Bank" endquery="false" field="sys_scope" goto="false" newquery="false" operator="=" or="false" value="1130b9280f5223009568cfdce1050ed9"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-18 06:43:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6a8b81cc0f2627009568cfdce1050e82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bank Item</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sys_filter_6a8b81cc0f2627009568cfdce1050e82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-18 06:43:10</sys_updated_on>
+        <table>sc_cat_item</table>
+        <title>Bank Item</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=6a8b81cc0f2627009568cfdce1050e82"/>
+</record_update>

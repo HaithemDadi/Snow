@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Email Account">6d7a82a80f9223009568cfdce1050eae</sc_cat_item>
+        <sc_category display_value="Business services">6fd40aa40f9223009568cfdce1050e83</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-07 14:20:33</sys_created_on>
+        <sys_id>63ba46a80f9223009568cfdce1050e89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business services.New Email Account</sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_cat_item_category_63ba46a80f9223009568cfdce1050e89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-07 14:20:33</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

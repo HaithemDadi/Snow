@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Exceptional payment </description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location display_value="Emea">dbf4173a0a0a0a65008cdd5be3306062</location>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="J_D Kunden">9d58a53f0f1ee3009568cfdce1050e50</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-13 12:41:18</sys_created_on>
+        <sys_id>576da0a60f9e23009568cfdce1050ec9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Exceptional payment </sys_name>
+        <sys_package display_value="J&amp;H Bank" source="x_244652_j_h_bank">1130b9280f5223009568cfdce1050ed9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J&amp;H Bank">1130b9280f5223009568cfdce1050ed9</sys_scope>
+        <sys_update_name>sc_category_576da0a60f9e23009568cfdce1050ec9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-17 14:31:11</sys_updated_on>
+        <title>Exceptional payment </title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=576da0a60f9e23009568cfdce1050ec9"/>
+</record_update>
